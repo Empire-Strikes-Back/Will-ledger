@@ -1,0 +1,5 @@
+[user]
+	email = sportleafs-ui@program
+	name = sportleafs-ui
+
+# git config --local include.path ../.gitconfig

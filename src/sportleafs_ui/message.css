@@ -1,0 +1,15 @@
+
+.root{
+    width: 90vw;
+    padding: 1em;
+    cursor: default;
+    height: 3em;
+    margin: auto;
+}
+.root *{
+    margin-left:0.5em;
+}
+
+.root div{
+    margin-bottom:0.5em;
+}

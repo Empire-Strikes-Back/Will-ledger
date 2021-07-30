@@ -1,0 +1,10 @@
+.content{
+    flex: 1;
+    width: 96vw;
+    margin: auto;
+}
+
+.root{
+    min-height: 100vh;
+}
+

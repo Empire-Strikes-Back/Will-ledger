@@ -1,0 +1,18 @@
+.link{
+    margin: 0 1em;
+    font-size: 1.1em;
+    padding: 0 1em;
+    color: gray;
+}
+
+.link:visited{
+    color: gray;
+}
+
+.link:active {
+    color: #7FDBFF;
+}
+
+.link:hover {
+    transform: scale(1.1);
+}
