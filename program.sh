@@ -17,4 +17,13 @@ main(){
     -M -m sportleafs-ui.main
 }
 
+uberjar(){
+  clj \
+    -X:uberjar genie.core/process \
+    :uberjar-name out/sportleafs-ui.standalone.jar \
+    :main-ns sportleafs-ui.main
+  mkdir -p out/jpackage-input
+  mv out/sportleafs-ui.standalone.jar out/jpackage-input/
+}
+
 "$@"
