@@ -1,0 +1,13 @@
+.root{
+    padding: 3em;
+    color: darkgray;
+    line-height: 2em;
+}
+
+.name {
+    color: black;
+}
+
+.root i {
+    margin: 0 0.5em;
+}

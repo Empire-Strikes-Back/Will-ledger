@@ -1,0 +1,25 @@
+.footer{
+    margin-top:2vh;
+   /*border: 1px dotted dimgray ;*/
+  /*box-shadow: 0px 2px 2px 0 rgba(0,0,0,.14);
+  border-radius: 3px;*/
+}
+
+
+.nav{
+    border: none;
+    margin: 1em;
+}
+
+.hr {
+    width: 95vw;
+    /*box-shadow: 0px 2px 2px 0 rgba(0,0,0,.14);*/
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+    display: block;
+    -webkit-margin-before: 0.5em;
+    -webkit-margin-after: 0.5em;
+    -webkit-margin-start: auto;
+    -webkit-margin-end: auto;
+}
